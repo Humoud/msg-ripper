@@ -1,0 +1,8 @@
+# https://github.com/mattgwwalker/msg-extractor
+extract_msg == 0.23.3
+
+# https://github.com/InQuest/python-iocextract
+iocextract == 1.13.1
+
+# https://jupyter.org/install
+notebook == 6.0.3
