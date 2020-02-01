@@ -8,6 +8,10 @@ note: this is still a work in progress
 * [extract_msg](https://github.com/mattgwwalker/msg-extractor)
 * [iocextract](https://github.com/InQuest/python-iocextract)
 
+To install dependencies:
+
+`python3.7 -m pip install -r requirements.txt`
+
 ### Usage
 The script iterates over a .msg files in the specified folder and does the following:
  * Extract the date, sender, receiver, reply to, and subject header
